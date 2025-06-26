@@ -1,4 +1,5 @@
 # StrongSORT + YOLOv11 two-camera ID-remapping
+
 # Note: The script assumes the YOLOv11 model and StrongSORT weights are available in the specified paths.
 # Make sure to adjust the paths and parameters according to your setup.
 # The script also assumes the input videos are named "broadcast.mp4" and "tacticam.mp4".
@@ -181,10 +182,3 @@ if __name__ == "__main__":
             id_map, "tacticam_tracks.pkl")
 
     print(" Finished - check the three output videos.")
-
-
-# Note: The script assumes the YOLOv11 model and StrongSORT weights are available in the specified paths.
-# Make sure to adjust the paths and parameters according to your setup.
-# The script also assumes the input videos are named "broadcast.mp4" and "tacticam.mp4".
-# The output videos will be saved as "output_broadcast.mp4", "output_tacticam.mp4", and "remapped_tacticam.mp4".
-# The tracks from the tacticam will be saved in "tacticam_tracks.pkl".  
