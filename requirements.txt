@@ -1,0 +1,14 @@
+ultralytics==8.*          # YOLOv8/11 package
+strongsort==0.2.*         # pip install strongsort
+torch>=2.0,<3.0
+torchreid==1.4.*
+opencv-python>=4.8
+scipy>=1.10
+numpy>=1.24
+torchvision 
+pathlib
+np
+pickle
+os
+
+# The model used is a basic fine-tuned version of Ultralytics YOLOv11, trained specifically on player and ball detection. Contact me at kudlivarun@gmail.com for the model
