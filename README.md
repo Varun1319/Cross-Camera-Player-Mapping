@@ -11,11 +11,11 @@ videos:
 | `remapped_tacticam.mp4`| Tacticam view **remapped ↔ broadcast IDs** |
 
 <p align="left">
-  <img src="results/ss1.png" width="600">
+  <img src="results/ss_broadcast.png" width="600">
   <figcaption>Broadcast.mp4 ID's ☝️</figcaption>
 </p>
 <p align="left">
-  <img src="results/ss2.png" width="600">
+  <img src="results/ss_tacticam_remapped.png" width="600">
   <figcaption>Remapped Tacticam.mp4 ID's to Broadcast ID ☝️</figcaption>
 </p>
 
