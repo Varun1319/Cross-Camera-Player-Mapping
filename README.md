@@ -31,7 +31,6 @@ videos:
    *temporal gate* ± `WIN_SEC` seconds & cosine cutoff `THR`  
 6. **TTL Overlay** – last box kept `TTL_FRAMES` to hide tracker flicker  
 
-See [`docs/pipeline.png`](docs/pipeline.png) for the full diagram.
 
 ---
 
