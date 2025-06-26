@@ -12,11 +12,11 @@ videos:
 
 <p align="left">
   <img src="results/ss1.png" width="600">
-  <caption align="left">Broadcast id</caption>
+  <figcaption>Broadcast.mp4 ID's</figcaption>
 </p>
 <p align="left">
   <img src="results/ss2.png" width="600">
-  <caption align="left">Remapped tacticam id's to broadcast id </caption>
+  <figcaption">Remapped Tacticam.mp4 ID's to Broadcast ID </figcaption>
 </p>
 
 ---
