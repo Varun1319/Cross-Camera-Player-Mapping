@@ -34,7 +34,7 @@ videos:
 
 ---
 
-## Quick start
+## Setup
 
 ```bash
 #Clone the git
