@@ -37,12 +37,21 @@ videos:
 ## Quick start
 
 ```bash
-git clone https://github.com/yourname/player-remap.git
-cd player-remap
+#Clone the git
+git clone https://github.com/Varun1319/Cross-Camera-Player-Mapping
+
+#Change the directory
+cd Cross-Camera-Player-Mapping
+
+#Create a virtual environment
 python3 -m venv .venv && source .venv/bin/activate
+
+#Install requirements
 pip install -r requirements.txt
 
-# place your two input clips in examples/ or pass absolute paths
-python tracker.py \
-    --broadcast examples/broadcast.mp4 \
-    --tacticam  examples/tacticam.mp4
+# Place the sample videos,YOLOv11 model in the file and give the same path and run
+python tracker.py
+```
+
+
+
