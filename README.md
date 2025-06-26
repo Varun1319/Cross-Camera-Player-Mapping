@@ -10,7 +10,7 @@ videos:
 | `output_tacticam.mp4`  | Tacticam view with native IDs |
 | `remapped_tacticam.mp4`| Tacticam view **remapped ↔ broadcast IDs** |
 
-<p align="center">
+<p align="left">
   <img src="results/ss1.png" width="600">
 </p>
 
